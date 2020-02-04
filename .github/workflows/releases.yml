@@ -1,6 +1,5 @@
 name: Upload Release Asset
 on: [push]
-
 jobs:
   build:
     name: Upload Release Asset
